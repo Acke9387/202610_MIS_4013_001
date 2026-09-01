@@ -2,4 +2,6 @@
   <Project Path="Part1.1/Part1.1.csproj" />
   <Project Path="Part1.2/Part1.2.csproj" />
   <Project Path="Part1.3/Part1.3.csproj" />
+  <Project Path="Part2.1/Part2.1.csproj" Id="7c59e52c-c19c-413a-914b-f0933cabb689" />
+  <Project Path="Part2.2/Part2.2.csproj" Id="ba09c958-8b44-4557-999a-3dfdd858e580" />
 </Solution>
